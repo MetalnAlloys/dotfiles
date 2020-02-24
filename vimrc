@@ -28,7 +28,7 @@ set autoindent
 set cursorline
 "let base16colorspace=256
 
-colorscheme deep-space
+colorscheme bluewery
 
 set mouse=a
 set splitbelow
@@ -111,8 +111,14 @@ Plug 'ryanoasis/vim-devicons'
 Plug 'yuttie/hydrangea-vim'
 Plug 'nightsense/snow'
 Plug 'alessandroyorba/despacio'
+Plug 'fenetikm/falcon'
+Plug 'relastle/bluewery.vim'
+Plug 'othree/html5.vim'
+Plug 'rust-lang/rust.vim'
+Plug 'wadackel/vim-dogrun'
+Plug 'cespare/vim-toml'
 "Plug 'ale-cci/aqua-vim'
-Plug 'severij/vadelma'
+"Plug 'severij/vadelma'
 "Plug 'danilo-augusto/vim-afterglow'
 "Plug 'wolf-dog/nighted.vim'
 "Plug 'whatyouhide/vim-gotham'
@@ -123,7 +129,7 @@ call plug#end()
 let g:deoplete#enable_at_startup = 1
 
 let g:lightline = {
-      \ 'colorscheme': 'deus',
+      \ 'colorscheme': 'bluewery',
       \ 'component': {
       \   'readonly': '%{&readonly?"":""}',
       \ },
