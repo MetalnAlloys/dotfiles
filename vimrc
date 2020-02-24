@@ -28,7 +28,7 @@ set autoindent
 set cursorline
 "let base16colorspace=256
 
-colorscheme nord 
+colorscheme deep-space
 
 set mouse=a
 set splitbelow
@@ -43,7 +43,7 @@ set background=dark
 set ttyfast
 set timeout timeoutlen=1000 ttimeoutlen=50
 set noswapfile
-"set termguicolors
+set termguicolors
 
 
 
@@ -110,6 +110,7 @@ Plug 'neomake/neomake'
 Plug 'ryanoasis/vim-devicons'
 Plug 'yuttie/hydrangea-vim'
 Plug 'nightsense/snow'
+Plug 'alessandroyorba/despacio'
 "Plug 'ale-cci/aqua-vim'
 Plug 'severij/vadelma'
 "Plug 'danilo-augusto/vim-afterglow'
@@ -122,7 +123,7 @@ call plug#end()
 let g:deoplete#enable_at_startup = 1
 
 let g:lightline = {
-      \ 'colorscheme': 'nord',
+      \ 'colorscheme': 'deus',
       \ 'component': {
       \   'readonly': '%{&readonly?"":""}',
       \ },
@@ -131,6 +132,6 @@ let g:lightline = {
       \ }
 
 "let g:lightline = {
-      "\ 'colorscheme': 'hydrangea'
+      "\ 'colorscheme': 'hyd'
       "\ }
 
