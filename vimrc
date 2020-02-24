@@ -108,7 +108,7 @@ Plug 'numirias/semshi', {'do': ':UpdateRemotePlugins'}
 Plug 'sheerun/vim-polyglot'
 Plug 'neomake/neomake'
 Plug 'ryanoasis/vim-devicons'
-Plug 'yuttie/hydrangea-vim'
+"Plug 'yuttie/hydrangea-vim'
 Plug 'nightsense/snow'
 Plug 'alessandroyorba/despacio'
 Plug 'fenetikm/falcon'
