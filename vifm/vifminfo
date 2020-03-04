@@ -1,0 +1,519 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'b
+	/home/basic/bin/
+	..
+1576783035
+'h
+	/home/basic/
+	..
+1576783035
+
+# Bookmarks:
+
+# TUI:
+al
+q1
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/usr/share/doc/HTML
+	sr
+16
+d/usr/share/doc
+	ffmpeg
+46
+d/usr/share/doc/ffmpeg
+	ffmpeg-protocols.html
+10
+d/usr/share/doc
+	ffmpeg
+46
+d/usr/share
+	doc
+54
+d/usr
+	lib32
+5
+d/
+	home
+4
+d/home
+	basic
+3
+d/home/basic
+	.dotfiles
+10
+d/home/basic/.dotfiles
+	.git
+1
+d/home/basic/.dotfiles/.git
+	..
+0
+d/home/basic/.dotfiles
+	aria2
+2
+d/home/basic
+	python_files
+57
+d/home/basic/python_files
+	loop2.py
+8
+d/home/basic
+	scripts
+56
+d/home/basic/scripts
+	sa.sh
+19
+d/home/basic
+	st
+57
+d/home/basic/st
+	..
+0
+d/home/basic
+	vifmimg
+57
+d/home/basic/vifmimg
+	vifmrun
+6
+d/home/basic
+	vmware
+56
+d/home/basic/vmware
+	Windows 10 x64
+1
+d/home/basic/vmware/Windows 10 x64
+	vmware-2.log
+10
+d/home/basic/vmware
+	Windows 10 x64
+1
+d/home/basic
+	scripts
+6
+d/home/basic/scripts
+	reverse.c
+18
+d/home/basic
+	python_files
+5
+d/home/basic/python_files
+	sets.py
+15
+d/home/basic
+	learning.python
+4
+d/home/basic/learning.python
+	bike.py
+2
+d/home/basic
+	learning.python
+4
+d/home
+	basic
+3
+d/home/basic
+	ranger
+5
+d/home/basic/ranger
+	ranger
+5
+d/home/basic/ranger/ranger
+	api
+1
+d/home/basic/ranger/ranger/api
+	commands.py
+2
+d/home/basic/ranger/ranger
+	colorschemes
+2
+d/home/basic/ranger/ranger/colorschemes
+	solarized.py
+5
+d/home/basic/ranger/ranger
+	config
+3
+d/home/basic/ranger/ranger/config
+	rifle.conf
+6
+d/home/basic/ranger/ranger
+	config
+3
+d/home/basic/ranger/ranger/config
+	rc.conf
+5
+d/home/basic/ranger/ranger
+	container
+4
+d/home/basic/ranger/ranger/container
+	settings.py
+7
+d/home/basic/ranger/ranger
+	data
+6
+d/home/basic/ranger/ranger/data
+	scope.sh
+2
+d/home/basic/ranger/ranger
+	ext
+7
+d/home/basic/ranger/ranger/ext
+	signals.py
+24
+d/home/basic/ranger/ranger
+	ext
+7
+d/home/basic/ranger
+	ranger
+5
+d/home/basic
+	ranger
+5
+d/home
+	basic
+3
+d/home/basic
+	learning.python
+4
+d/home/basic/learning.python
+	.lpvenv
+1
+d/home/basic/learning.python/.lpvenv
+	pyvenv.cfg
+3
+d/home/basic/learning.python
+	arrays.py
+2
+d/home/basic
+	PycharmProjects
+8
+d/home/basic/PycharmProjects
+	pyqt_lesson
+1
+d/home/basic/PycharmProjects/pyqt_lesson
+	venv
+2
+d/home/basic/PycharmProjects/pyqt_lesson/venv
+	bin
+1
+d/home/basic/PycharmProjects/pyqt_lesson
+	venv
+2
+d/home/basic/PycharmProjects
+	python_lessons
+2
+d/home/basic/PycharmProjects/python_lessons
+	venv
+3
+d/home/basic/PycharmProjects/python_lessons/venv
+	decrate_sort.py
+9
+d/home/basic/PycharmProjects/python_lessons
+	venv
+3
+d/home/basic/PycharmProjects
+	python_lessons
+2
+d/home/basic
+	.zplug
+11
+d/home/basic/.dotfiles/i3
+	config
+1
+d/home/basic/.dotfiles
+	..
+0
+d/home/basic
+	.i3
+7
+d/home/basic/.i3
+	config_bak
+2
+d/home/basic
+	.config
+4
+d/home
+	basic
+3
+d/home/basic
+	Documents
+45
+d/home/basic/Documents
+	my_files
+2
+d/home/basic/Documents/my_files
+	CV.txt
+7
+d/home/basic/Documents
+	Books
+1
+d/home/basic
+	AndroidStudioProjects
+43
+d/home/basic/python_files/argparsing
+	..
+0
+d/home/basic/python_files
+	argparsing
+2
+d/home/basic
+	python_files
+54
+d/home/basic/python_files
+	.vscode
+1
+d/home/basic/python_files/.vscode
+	settings.json
+1
+d/home/basic/python_files
+	argparsing
+2
+d/home/basic/python_files/argparsing
+	optional_arg.py
+1
+d/home/basic/python_files
+	pill
+3
+d/home/basic/python_files/pill
+	pill
+1
+d/home/basic/python_files/pill/pill
+	pyvenv.cfg
+5
+d/home/basic/python_files/pill
+	pill
+1
+d/home/basic/python_files
+	permutation.py
+18
+d/home/basic
+	pyqt_py
+53
+d/home/basic/pyqt_py
+	pyqtvenv
+1
+d/home/basic
+	scripts
+54
+d/home/basic/scripts
+	reverse.c
+20
+d/home/basic
+	scripts
+54
+d/home/basic/scripts
+	bashcurses
+1
+d/home/basic/scripts/bashcurses
+	..
+0
+d/home/basic/scripts
+	java
+2
+d/home/basic/scripts/java
+	HelloWorldApp.class
+1
+d/home/basic/scripts
+	rust.rs
+22
+d
+
+# Right window history (oldest to newest):
+D/
+	home
+4
+D/home/basic
+	Documents
+4
+D/home/basic/Documents
+	Statements of purpose.rar
+2
+D/home/basic
+	.config
+7
+D/home/basic/.config
+	pamac
+13
+D/home/basic
+	scripts
+40
+D/home/basic/scripts
+	gcd.sh
+12
+D/home/basic
+	.gtkrc-2.0.bak
+37
+D/home
+	basic
+3
+D/home/basic
+	usr
+19
+D/home
+	basic
+3
+D/home/basic
+	.gtkrc-2.0
+17
+D/home
+	basic
+3
+D/home/basic
+	.gtkrc-2.0
+17
+D/home
+	basic
+3
+D/
+	home
+4
+D/home
+	basic
+3
+D/home/basic
+	.gtkrc-2.0
+17
+D/home
+	basic
+3
+D/home/basic
+	.inxi_info
+20
+D
+
+# Command line history (oldest to newest):
+:colo solarized-dark
+:cd python_files/
+:colorscheme zenburn_1
+:colorscheme semidarkdesert
+:Q
+:colo Default
+:colorscheme near-default
+:filetype
+:colorscheme dracula
+:colorscheme gruvbox
+:colorscheme molokai
+:colo near-default
+:colorscheme ph
+:colorscheme solarized-dark
+:colorscheme zenburn
+:rename config
+:colorscheme matrix
+:colorscheme Default
+:1
+:vifm
+:view
+:q
+
+# Search history (oldest to newest):
+/comp
+/.config
+/con
+/z
+/dot
+/st
+/snaå
+/Down
+
+# Prompt history (oldest to newest):
+pPictures
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/basic/.local/share/vifm/Trash/000_kitty-0.16.0.tar.xz
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/basic/.local/share/vifm/Trash/000_vimowhe.txt
+	/home/basic/vimowhe.txt
+t/home/basic/.local/share/vifm/Trash/000_binary
+	/home/basic/binary
+t/home/basic/.local/share/vifm/Trash/000_hardware.html
+	/home/basic/hardware.html
+t/home/basic/.local/share/vifm/Trash/000_config_bak
+	/home/basic/config_bak
+t/home/basic/.local/share/vifm/Trash/000_input
+	/home/basic/input
+t/home/basic/.local/share/vifm/Trash/000_list
+	/home/basic/list
+t/home/basic/.local/share/vifm/Trash/000_regxp
+	/home/basic/regxp
+t/home/basic/.local/share/vifm/Trash/000_reverse.txt
+	/home/basic/reverse.txt
+t/home/basic/.local/share/vifm/Trash/000_sample.dat
+	/home/basic/sample.dat
+t/home/basic/.local/share/vifm/Trash/000_vim-gotham
+	/home/basic/vim-gotham
+t/home/basic/.local/share/vifm/Trash/000_tty-clock
+	/home/basic/tty-clock
+t/home/basic/.local/share/vifm/Trash/000_spotifyd
+	/home/basic/spotifyd
+t/home/basic/.local/share/vifm/Trash/000_space-vim-dark
+	/home/basic/space-vim-dark
+t/home/basic/.local/share/vifm/Trash/000_rofi-themes
+	/home/basic/rofi-themes
+t/home/basic/.local/share/vifm/Trash/000_meli
+	/home/basic/meli
+t/home/basic/.local/share/vifm/Trash/000_edge
+	/home/basic/edge
+t/home/basic/.local/share/vifm/Trash/000_A
+	/home/basic/Documents/A
+t/home/basic/.local/share/vifm/Trash/000_korla
+	/home/basic/Downloads/korla
+t/home/basic/.local/share/vifm/Trash/000_korla-light
+	/home/basic/Downloads/korla-light
+t/home/basic/.local/share/vifm/Trash/000_korla-light-panel
+	/home/basic/Downloads/korla-light-panel
+t/home/basic/.local/share/vifm/Trash/000_EOT
+	/home/basic/Downloads/EOT
+t/home/basic/.local/share/vifm/Trash/000_OTF
+	/home/basic/Downloads/OTF
+t/home/basic/.local/share/vifm/Trash/000_TTF
+	/home/basic/Downloads/TTF
+t/home/basic/.local/share/vifm/Trash/000_WOFF
+	/home/basic/Downloads/WOFF
+t/home/basic/.local/share/vifm/Trash/000_WOFF2
+	/home/basic/Downloads/WOFF2
+t/home/basic/.local/share/vifm/Trash/000_otf
+	/home/basic/Downloads/otf
+t/home/basic/.local/share/vifm/Trash/000_sometype
+	/home/basic/Downloads/sometype
+t/home/basic/.local/share/vifm/Trash/000_ttf
+	/home/basic/Downloads/ttf
+t/home/basic/.local/share/vifm/Trash/000_variable_ttf
+	/home/basic/Downloads/variable_ttf
+t/home/basic/.local/share/vifm/Trash/000_woff
+	/home/basic/Downloads/woff
+t/home/basic/.local/share/vifm/Trash/000_woff2
+	/home/basic/Downloads/woff2
+t/home/basic/.local/share/vifm/Trash/000_92858cd2-4aac-4051-9a19-b9270e7094dc.zip
+	/home/basic/Downloads/92858cd2-4aac-4051-9a19-b9270e7094dc.zip
+t/home/basic/.local/share/vifm/Trash/000_Inspiration.colorscheme
+	/home/basic/Downloads/Inspiration.colorscheme
+t/home/basic/.local/share/vifm/Trash/000_PKGBUILD.proto
+	/home/basic/Downloads/PKGBUILD.proto
+t/home/basic/.local/share/vifm/Trash/000_Sleek.colorscheme
+	/home/basic/Downloads/Sleek.colorscheme
+t/home/basic/.local/share/vifm/Trash/000_fira_code.css
+	/home/basic/Downloads/fira_code.css
+t/home/basic/.local/share/vifm/Trash/000_kitty-0.16.0.tar.xz
+	/home/basic/Downloads/kitty-0.16.0.tar.xz
+
+# State:
+f
+i1
+[.0
+[F
+F
+I1
+].0
+]F
+s0
