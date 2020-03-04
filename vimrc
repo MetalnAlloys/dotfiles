@@ -16,10 +16,11 @@ runtime! archlinux.vim
 
 " do not load defaults if ~/.vimrc is missing
 "let skip_defaults_vim=1
+let g:python_host_prog = '/usr/bin/python'
 
 set number
 syntax on
-set textwidth=79
+set textwidth=89
 set tabstop=4
 set shiftwidth=4
 set expandtab
@@ -44,6 +45,7 @@ set ttyfast
 set timeout timeoutlen=1000 ttimeoutlen=50
 set noswapfile
 set termguicolors
+"set shell=/usr/local/bin/st
 
 
 
@@ -94,35 +96,39 @@ else
   Plug 'roxma/nvim-yarp'
   Plug 'roxma/vim-hug-neovim-rpc'
 endif
-"Plug 'Rigellute/rigel'
-"Plug 'haishanh/night-owl.vim'
+Plug 'Rigellute/rigel'
+Plug 'haishanh/night-owl.vim'
 Plug 'https://github.com/itchyny/lightline.vim'
 Plug 'scrooloose/nerdtree'
 Plug 'https://github.com/tmhedberg/SimpylFold'
-"Plug 'arcticicestudio/nord-vim'
+Plug 'arcticicestudio/nord-vim'
 Plug 'jiangmiao/auto-pairs'
 Plug 'https://github.com/vim-python/python-syntax'
 Plug 'junegunn/vim-easy-align'
 Plug 'https://github.com/vifm/vifm.vim'
 Plug 'numirias/semshi', {'do': ':UpdateRemotePlugins'}
-Plug 'sheerun/vim-polyglot'
+"Plug 'sheerun/vim-polyglot'
 Plug 'neomake/neomake'
 Plug 'ryanoasis/vim-devicons'
 "Plug 'yuttie/hydrangea-vim'
-Plug 'nightsense/snow'
-Plug 'alessandroyorba/despacio'
+"Plug 'nightsense/snow'
+"Plug 'alessandroyorba/despacio'
 Plug 'fenetikm/falcon'
 Plug 'relastle/bluewery.vim'
 Plug 'othree/html5.vim'
 Plug 'rust-lang/rust.vim'
-Plug 'wadackel/vim-dogrun'
+"Plug 'wadackel/vim-bluewery'
 Plug 'cespare/vim-toml'
 "Plug 'ale-cci/aqua-vim'
 "Plug 'severij/vadelma'
 "Plug 'danilo-augusto/vim-afterglow'
 "Plug 'wolf-dog/nighted.vim'
 "Plug 'whatyouhide/vim-gotham'
-"Plug 'sheerun/vim-polyglot'
+Plug 'sheerun/vim-polyglot'
+"Plug 'Valloric/YouCompleteMe'
+Plug 'deoplete-plugins/deoplete-jedi'
+Plug 'davidhalter/jedi-vim'
+
 call plug#end()
 
 
